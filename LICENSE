@@ -1,4 +1,4 @@
-Cotordo Games Source License (CGSL) v1.0
+Cotordo Games Source License (CGSL) v1.1
 Copyright (c) 2026 Cotordo Games (DJ / Djalroid)
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -15,8 +15,33 @@ within this repository.
 not limited to: artwork, sprites, tilesets, music, sound effects, voice acting,
 story content, character designs, and world/level data belonging to The Game.
 
+"Protected Elements" refers to the following specific components of The Game
+which are considered core to its identity and are explicitly protected under
+this license:
+  - All playable characters, including Cubon, King Cubit, Johnny, and any
+    other named characters appearing in The Game
+  - All levels, zones, and world structures as designed in The Game
+  - The Game's story, script, dialogue, and narrative structure
+  - All original music and sound effects produced for The Game
+  - All original sprite and tile artwork produced for The Game
+
+"Substantially Reproduces" means any Derivative Work or project that
+recreates or incorporates 50% or more of any one or more Protected Elements,
+regardless of whether the assets used are original or recreated from scratch.
+Deliberate near-identical recreation of Protected Elements to circumvent this
+threshold is also considered a violation.
+
 "Derivative Work" refers to any project, tool, game, or software that is based
 on, incorporates, or is derived from The Codebase.
+
+"Monetization" refers to any form of direct financial gain tied to a specific
+project, including but not limited to: selling the project, placing it behind
+a paywall, running advertisements within or alongside it, or soliciting
+donations explicitly tied to that project (e.g. a Patreon post, crowdfunding
+campaign, or donation link that names or promotes the project as a reward or
+incentive). General creator support platforms (e.g. a personal Patreon) are
+not considered Monetization unless the project is listed as a perk, goal, or
+incentive.
 
 "You" refers to any individual or entity accessing, using, or modifying The
 Codebase.
@@ -34,19 +59,21 @@ You ARE permitted to:
    Derivative Works, provided all other terms of this license are followed.
 
 3. RELEASE DERIVATIVE WORKS — Publish games or tools built using The Codebase,
-   provided they do not incorporate Non-Code Assets from The Game and are not
-   monetized in any form.
+   provided they do not incorporate Non-Code Assets from The Game, do not
+   Substantially Reproduce any Protected Elements, and are not Monetized.
 
 4. MOD AND PATCH — Create and distribute mods, patches, bugfixes, or
    extensions that are designed to be applied to an existing licensed copy of
-   The Game, provided such mods do not reproduce or repackage The Game itself.
+   The Game, provided such mods do not reproduce or repackage The Game itself
+   as a standalone executable or distributable.
 
 5. PORT THE CODEBASE — Translate or port The Codebase to other programming
-   languages or platforms for study or non-commercial use, provided the full
-   game experience is not reproduced or redistributed as a result.
+   languages or platforms for study or non-commercial use, provided the result
+   is not a standalone playable reproduction of The Game in full or substantial
+   part.
 
-6. CREDIT AND SHARE — Share, link to, or discuss The Codebase publicly,
-   provided proper credit is given.
+6. SHARE — Share, link to, or discuss The Codebase publicly, provided proper
+   credit is given as defined below.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -55,22 +82,26 @@ RESTRICTIONS
 You are NOT permitted to:
 
 1. SELL OR REDISTRIBUTE THE GAME — You may not sell, redistribute, or publish
-   any product that substantially reproduces The Game's content, experience, or
-   identity, whether using The Codebase, Non-Code Assets, or both.
+   any product that Substantially Reproduces The Game's Protected Elements,
+   whether using The Codebase, Non-Code Assets, or independently recreated
+   versions of either.
 
-2. MONETIZE USING NON-CODE ASSETS — You may not monetize any project that
-   incorporates Non-Code Assets from The Game in any form, including but not
-   limited to: selling the project, accepting donations tied to the project,
-   placing it behind a paywall, or running advertisements on or within it.
+2. MONETIZE USING NON-CODE ASSETS — You may not Monetize any project that
+   incorporates Non-Code Assets from The Game in any form.
 
-3. RELEASE FULL GAME PORTS — You may not publish a full or substantially
-   complete playable port of The Game to another language, platform, or engine,
-   regardless of whether Non-Code Assets are included.
+3. RELEASE FULL GAME PORTS — You may not publish a standalone, fully or
+   substantially playable port of The Game to another language, platform, or
+   engine, regardless of whether original or recreated assets are used.
 
 4. OMIT CREDIT — Any publicly released Derivative Work, mod, patch, or port
-   must clearly credit Cotordo Games (DJ / Djalroid) as the original author of
-   The Codebase. Failure to provide visible, reasonable credit constitutes a
-   violation of this license.
+   must provide clear, visible credit to Cotordo Games (DJ / Djalroid) as the
+   original author of The Codebase. This credit must appear:
+     a) Within the project itself in a visible location, such as a title
+        screen, credits screen, about page, or equivalent; AND
+     b) In any public repository description, README, or store/distribution
+        page associated with the project.
+   Burying credit exclusively in source code comments or obscure documentation
+   does not constitute compliance.
 
 5. SUBLICENSE — You may not relicense The Codebase or any Derivative Work
    under different terms that would grant permissions beyond those defined here.
@@ -83,7 +114,8 @@ You are NOT permitted to:
 NO WARRANTY
 
 The Codebase is provided "as is", without warranty of any kind, express or
-implied. Cotordo Games is not liable for any damages arising from its use.
+implied. Cotordo Games is not liable for any damages, losses, or legal
+consequences arising from its use.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
