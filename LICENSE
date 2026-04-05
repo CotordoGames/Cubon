@@ -1,21 +1,94 @@
-MIT License
+Cotordo Games Source License (CGSL) v1.0
+Copyright (c) 2026 Cotordo Games (DJ / Djalroid)
 
-Copyright (c) 2026 CotordoGames
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+DEFINITIONS
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+"The Game" refers to Cubon, developed by Cotordo Games, including all official
+releases, updates, and associated content.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+"The Codebase" refers to the source code, scripts, and engine logic contained
+within this repository.
+
+"Non-Code Assets" refers to all assets that are not source code, including but
+not limited to: artwork, sprites, tilesets, music, sound effects, voice acting,
+story content, character designs, and world/level data belonging to The Game.
+
+"Derivative Work" refers to any project, tool, game, or software that is based
+on, incorporates, or is derived from The Codebase.
+
+"You" refers to any individual or entity accessing, using, or modifying The
+Codebase.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+PERMISSIONS
+
+You ARE permitted to:
+
+1. STUDY — Read, analyze, and learn from The Codebase for any purpose,
+   including personal and educational use.
+
+2. MODIFY — Fork and modify The Codebase for personal use or to create
+   Derivative Works, provided all other terms of this license are followed.
+
+3. RELEASE DERIVATIVE WORKS — Publish games or tools built using The Codebase,
+   provided they do not incorporate Non-Code Assets from The Game and are not
+   monetized in any form.
+
+4. MOD AND PATCH — Create and distribute mods, patches, bugfixes, or
+   extensions that are designed to be applied to an existing licensed copy of
+   The Game, provided such mods do not reproduce or repackage The Game itself.
+
+5. PORT THE CODEBASE — Translate or port The Codebase to other programming
+   languages or platforms for study or non-commercial use, provided the full
+   game experience is not reproduced or redistributed as a result.
+
+6. CREDIT AND SHARE — Share, link to, or discuss The Codebase publicly,
+   provided proper credit is given.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RESTRICTIONS
+
+You are NOT permitted to:
+
+1. SELL OR REDISTRIBUTE THE GAME — You may not sell, redistribute, or publish
+   any product that substantially reproduces The Game's content, experience, or
+   identity, whether using The Codebase, Non-Code Assets, or both.
+
+2. MONETIZE USING NON-CODE ASSETS — You may not monetize any project that
+   incorporates Non-Code Assets from The Game in any form, including but not
+   limited to: selling the project, accepting donations tied to the project,
+   placing it behind a paywall, or running advertisements on or within it.
+
+3. RELEASE FULL GAME PORTS — You may not publish a full or substantially
+   complete playable port of The Game to another language, platform, or engine,
+   regardless of whether Non-Code Assets are included.
+
+4. OMIT CREDIT — Any publicly released Derivative Work, mod, patch, or port
+   must clearly credit Cotordo Games (DJ / Djalroid) as the original author of
+   The Codebase. Failure to provide visible, reasonable credit constitutes a
+   violation of this license.
+
+5. SUBLICENSE — You may not relicense The Codebase or any Derivative Work
+   under different terms that would grant permissions beyond those defined here.
+
+6. CLAIM OWNERSHIP — You may not represent The Codebase, The Game, or any
+   substantial portion thereof as your own original work.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+NO WARRANTY
+
+The Codebase is provided "as is", without warranty of any kind, express or
+implied. Cotordo Games is not liable for any damages arising from its use.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+CONTACT
+
+For licensing inquiries, exceptions, or permissions beyond the scope of this
+license, contact Cotordo Games via the official repository or associated
+community channels.
